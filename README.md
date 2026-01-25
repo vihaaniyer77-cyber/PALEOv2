@@ -69,7 +69,6 @@ This makes PALEO particularly well-suited for detecting small, Earth-like planet
 
 ---
 
-## Repository Structure
 
 
 

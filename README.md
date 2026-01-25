@@ -1,7 +1,7 @@
 # PALEOv2
 
 # PALEO  
-**Physics-Aware Lightcurve Event Observer**
+**Physics-Aware Lightcurve Exoplanet Observer**
 
 PALEO is a physics-aware deep learning pipeline for detecting exoplanet transits in stellar light curves. It combines a **Temporal Convolutional Neural Network (TCN)** with **physical transit modeling** to identify, validate, and reject candidate transit signals in noisy Kepler data—particularly in the presence of stellar activity such as flares and rotational modulation.
 
